@@ -1,0 +1,85 @@
+/*
+.App {
+  background-color: #282c34;
+  min-height: 100vh;  
+}
+
+.navbar {
+  width: 100%;
+  height: 100px;
+  display: flex;  
+  font-size: calc(10px + 2vmin);
+  color: white;    
+}
+
+.logo {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  width: 15%;  
+  font-size: 35px;
+}
+
+.cartwidget {
+  background-color: black;
+  width: 15%;
+  height: 100px;
+  display: flex;  
+  justify-content: center;
+  align-items: center;    
+}
+
+.cartwidget-ima {
+  width: 55px;
+  height: 40px;
+}
+
+.menu {
+  background-color: black;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menues {
+  display: flex;   
+}
+
+.menues li {
+list-style-type: none;
+margin: 20px;
+}
+
+.menues li:hover {
+  color: aqua;
+}
+
+.itemlistcontainer {
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 250px;
+  font-size: 40px;
+}
+
+*/
+
+h1{
+  color: white;
+}
+
+
+.principal-container{
+  margin: 50px;
+}
+
+.cards-container{
+  margin: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
